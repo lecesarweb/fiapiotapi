@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ApiContext-Web.config Connection String" description="ApiContext A Cadeia de Conexão usada em web.config pelo aplicativo para acessar o banco de dados." defaultValue="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=ApiContext-20180310124527; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=|DataDirectory|ApiContext-20180310124527.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Leandro\\Documents\\Visual\ Studio\ 2017\\Projects\\Fiap\.ioT\.Api\\Fiap\.ioT\.Api\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ApiContext']/@connectionString" />
+  </parameter>
+</parameters>
